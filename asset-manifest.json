@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Inforce-frontend-task/static/css/main.a3462b61.chunk.css",
+    "main.js": "/Inforce-frontend-task/static/js/main.03573cea.chunk.js",
+    "main.js.map": "/Inforce-frontend-task/static/js/main.03573cea.chunk.js.map",
+    "runtime-main.js": "/Inforce-frontend-task/static/js/runtime-main.23b8c9c1.js",
+    "runtime-main.js.map": "/Inforce-frontend-task/static/js/runtime-main.23b8c9c1.js.map",
+    "static/js/2.3db966cc.chunk.js": "/Inforce-frontend-task/static/js/2.3db966cc.chunk.js",
+    "static/js/2.3db966cc.chunk.js.map": "/Inforce-frontend-task/static/js/2.3db966cc.chunk.js.map",
+    "index.html": "/Inforce-frontend-task/index.html",
+    "precache-manifest.cb088c920a6b2e535ce3f3be9e4736a1.js": "/Inforce-frontend-task/precache-manifest.cb088c920a6b2e535ce3f3be9e4736a1.js",
+    "service-worker.js": "/Inforce-frontend-task/service-worker.js",
+    "static/css/main.a3462b61.chunk.css.map": "/Inforce-frontend-task/static/css/main.a3462b61.chunk.css.map",
+    "static/js/2.3db966cc.chunk.js.LICENSE.txt": "/Inforce-frontend-task/static/js/2.3db966cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23b8c9c1.js",
+    "static/js/2.3db966cc.chunk.js",
+    "static/css/main.a3462b61.chunk.css",
+    "static/js/main.03573cea.chunk.js"
+  ]
+}
